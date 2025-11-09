@@ -1,0 +1,5 @@
+{
+  "name": "BuyPadi Marketplace deploy",
+  "description": "A secure marketplace application for buying and selling goods with an escrow service. This application provides a user-friendly interface for browsing products, creating listings, and managing transactions for both buyers and sellers, along with an admin dashboard for oversight.",
+  "requestFramePermissions": []
+}
